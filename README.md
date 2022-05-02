@@ -30,5 +30,5 @@ _`cat /proc/meminfo | grep Inactive_`
 **Задание 6**
 
 [//]: # (<image src="Снимок экрана от 2022-04-27 23-00-01.png" alt="Исходное состояние">)
-![Screenshot](Снимок экрана от 2022-04-27 23-00-01.png)
+![Screenshot](1.png)
 
