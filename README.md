@@ -4,10 +4,10 @@
 **Задание 1**
 Ответ:
 Deb:
-Kali Linux, Ubuntu
+_Kali Linux_, _Ubuntu_
 
 RedHatPM:
-Oracle Linux, CentOS
+_Oracle Linux_, _CentOS_
 
 **Задание 2**
 Ответ:
@@ -15,7 +15,7 @@ Oracle Linux, CentOS
 
 **Задание 3**
 Ответ:
-_ps aux | grep root >> user_root_ps_
+_`ps aux | grep root >> user_root_ps`_
 
 **Задание 4**
 Ответ:
@@ -26,3 +26,7 @@ vmstat — команда, выводящая информацию о состо
 _`arch`_ или _`uname -m`_ или _`lscpu_ _| grep Architecture`_
 _`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_
 _`cat /proc/meminfo | grep Inactive_`
+
+**Задание 6**
+![Исходное состояние](Снимок экрана от 2022-04-27 23-00-01.png)
+
