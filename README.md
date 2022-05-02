@@ -28,5 +28,6 @@ _`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_
 _`cat /proc/meminfo | grep Inactive_`
 
 **Задание 6**
-![Исходное состояние](/Снимок экрана от 2022-04-27 23-00-01.png)
+<image src="Снимок экрана от 2022-04-27 23-00-01.png" alt="Исходное состояние">
+
 
