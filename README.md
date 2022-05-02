@@ -3,7 +3,7 @@
 
 **Задание 1**  
 Ответ:  
-Deb:
+Deb:  
 _Kali Linux_, _Ubuntu_
 
 RedHatPM:  
@@ -24,7 +24,7 @@ vmstat — команда, выводящая информацию о состо
 **Задание 5**  
 Ответ:  
 _`arch`_ или _`uname -m`_ или _`lscpu_ _| grep Architecture`_
-_`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_
+_`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_  
   `cat /proc/meminfo | grep Inactive_`
 
 **Задание 6**  
