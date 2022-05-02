@@ -28,7 +28,7 @@ _`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_
   `cat /proc/meminfo | grep Inactive_`
 
 **Задание 6**  
-
+Ответ:  
 ![Screenshot](1.png)
 
 ![Screenshot](2.png)
