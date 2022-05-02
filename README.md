@@ -23,6 +23,6 @@ vmstat — команда, выводящая информацию о состо
 
 **Задание 5**
 Ответ:
-_arch_ или _uname -m_ или _lscpu_ _| grep Architecture_
-_lscpu | grep name_ или _cat /proc/cpuinfo | grep name_
-_cat /proc/meminfo | grep Inactive_
+_`arch`_ или _`uname -m`_ или _`lscpu_ _| grep Architecture`_
+_`lscpu | grep name`_ или _`cat /proc/cpuinfo | grep name`_
+_`cat /proc/meminfo | grep Inactive_`
